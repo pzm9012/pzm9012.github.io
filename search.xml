@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>第一篇文章</title>
-    <url>/project/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>这个博客是我花了半天的时间学习搭建的，由 <a href="https://hexo.io/zh-cn/">Hexo</a> 强力驱动，使用主题 <a href="https://shen-yu.gitee.io/">Ayer</a> 。感谢提供帮助的 <a href="https://www.possibleving.top/">PossibleVing</a> 和有关教程文档的作者。</p>
-<p>终于有了自己的个人博客……<span id="more"></span></p>
-<hr>
-<p>我在反复地思考，我建这个博客的意义是什么。我并不经常在社交平台上发动态，展示我的生活；分享兴趣爱好相关的内容，我所会的都已写成了教程，所聊的缺少深层次。而且由于条件限制，我很可能在明年6月之前都无法更新博客。</p>
-<p>但是，有了博客，我能感受到自己的存在是有意义的；它静静地等着我完成高考的拼搏。搭建的过程，也是我深入了解相关知识的过程。</p>
-<p>就从这里开始吧。<br><img src="https://storage.deepin.org/thread/202210170931412490_%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_20220520085903.png" alt="深度截图_20220520085903.png"></p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>个人</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/project/2022/10/16/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. <span id="more"></span></p>
@@ -34,5 +17,22 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/project/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这个博客是我花了半天的时间学习搭建的，由 <a href="https://hexo.io/zh-cn/">Hexo</a> 强力驱动，使用主题 <a href="https://shen-yu.gitee.io/">Ayer</a> 。感谢提供帮助的 <a href="https://www.possibleving.top/">PossibleVing</a> 和有关教程文档的作者。</p>
+<p>终于有了自己的个人博客……<span id="more"></span></p>
+<hr>
+<p>我在反复地思考，我建这个博客的意义是什么。我并不经常在社交平台上发动态，展示我的生活；分享兴趣爱好相关的内容，我所会的都已写成了教程，所聊的缺少深层次。而且由于条件限制，我很可能在明年6月之前都无法更新博客。</p>
+<p>但是，有了博客，我能感受到自己的存在是有意义的；它静静地等着我完成高考的拼搏。搭建的过程，也是我深入了解相关知识的过程。</p>
+<p>就从这里开始吧。<br><img src="https://storage.deepin.org/thread/202210170931412490_%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_20220520085903.png" alt="deepin 15.7 的桌面和控制中心"></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>个人</tag>
+      </tags>
   </entry>
 </search>
