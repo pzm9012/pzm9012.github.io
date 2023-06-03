@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>高中毕业了</title>
+    <link href="/project/2023/06/03/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/"/>
+    <url>/project/2023/06/03/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/</url>
+    
+    <content type="html"><![CDATA[<p>事情发生得比预料的早了一些。突然通知时，只能匆忙整理好自己的东西离去，甚至还未和老师同学好好说一声告别。几天后，我就将走上高考考场。<br>人生的一个阶段或许即将告一段落。到底是有些不舍。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>个人</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>浅探deepin Live和修复Linux引导</title>
     <link href="/project/2022/12/07/%E6%B5%85%E6%8E%A2deepin%20Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC/"/>
     <url>/project/2022/12/07/%E6%B5%85%E6%8E%A2deepin%20Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC/</url>
@@ -31,31 +56,6 @@
   
   
   <entry>
-    <title>测试Cloud Studio</title>
-    <link href="/project/2022/10/17/%E6%B5%8B%E8%AF%95Cloud-Studio/"/>
-    <url>/project/2022/10/17/%E6%B5%8B%E8%AF%95Cloud-Studio/</url>
-    
-    <content type="html"><![CDATA[<p>如果你能看到这篇文章，就说明我已实现了在云端的Cloud Studio上搭建博客环境并管理。这意味着以后我不一定要通过手上的这台电脑，而是能在更多的设备上，只要有合适的网，就能修改博客了。<span id="more"></span><br>又学会了一点点东西~<br><img src="https://storage.deepin.org/thread/202210171852367071_%E5%9B%BE%E7%89%87.png" alt="Cloud Studio工作空间"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>博客</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>经验</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>第一篇文章</title>
     <link href="/project/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <url>/project/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -65,7 +65,7 @@
     
     <categories>
       
-      <category>生活</category>
+      <category>博客</category>
       
     </categories>
     
@@ -87,6 +87,12 @@
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. <span id="more"></span></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
+    
+    <categories>
+      
+      <category>博客</category>
+      
+    </categories>
     
     
   </entry>
