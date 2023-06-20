@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/project/2022/10/16/hello-world/</url>
+    <url>/post/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. <span id="more"></span></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure>
 
@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <title>浅探deepin Live和修复Linux引导</title>
-    <url>/project/2022/12/07/%E6%B5%85%E6%8E%A2deepin%20Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC/</url>
+    <url>/post/%E6%B5%85%E6%8E%A2deepin%20Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC/</url>
     <content><![CDATA[<a class="btn" href="https://www.yuque.com/pzm9012/ct5ume/ihc99w"  title="在语雀上阅读本文" target="_blank">在语雀上阅读本文</a>    <a class="btn" href="https://wiki.deepin.org/zh/04_%E6%8C%89%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%E5%88%92%E5%88%86/00_%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E5%89%8D/01_%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC"  title="在 deepin Wiki 上阅读本文" target="_blank">在 deepin Wiki 上阅读本文</a>
 
 <p>本文是我综合网络上的几篇教程和自己不久前用 LiveCD 修复 UOS 引导的经历写成的，前半部分是对 deepin Live 的说明，后半部分是修复 Linux 引导的可能方法。</p>
@@ -74,7 +74,7 @@
   </entry>
   <entry>
     <title>第一篇文章</title>
-    <url>/project/2022/10/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <url>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这个博客是我花了半天的时间学习搭建的，由 <a href="https://hexo.io/zh-cn/">Hexo</a> 强力驱动，使用主题 Fluid 。感谢提供帮助的 <a href="https://www.possibleving.top/">PossibleVing</a> 和有关教程文档的作者。</p>
 <p>终于有了自己的个人博客……<span id="more"></span></p>
 <p>其实我并不擅长于使用博客，而且由于一些原因，我很可能在明年6月之前都无法写新的文章。但是，我有了一个属于自己、能够自说自话的地方，这就够了。搭建它的过程，也是我深入了解相关知识的过程。</p>
@@ -89,7 +89,7 @@
   </entry>
   <entry>
     <title>高中毕业了</title>
-    <url>/project/2023/06/03/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/</url>
+    <url>/post/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/</url>
     <content><![CDATA[<p>事情发生得比预料的早了一些。突然通知时，只能匆忙整理好自己的东西离去，甚至还未和老师同学好好说一声告别。几天后，我就将走上高考考场。<br>人生的一个阶段或许即将告一段落。到底是有些不舍。</p>
 ]]></content>
       <categories>
