@@ -22,6 +22,33 @@
       </categories>
   </entry>
   <entry>
+    <title>第一篇文章</title>
+    <url>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这个博客是我花了半天的时间学习搭建的，由 <a href="https://hexo.io/zh-cn/">Hexo</a> 强力驱动，使用主题 Fluid 。感谢提供帮助的 <a href="https://www.possibleving.top/">PossibleVing</a> 和有关教程文档的作者。</p>
+<p>终于有了自己的个人博客……<span id="more"></span></p>
+<p>其实我并不擅长于使用博客，而且由于一些原因，我很可能在明年6月之前都无法写新的文章。但是，我有了一个属于自己、能够自说自话的地方，这就够了。搭建它的过程，也是我深入了解相关知识的过程。</p>
+<p>就从这里开始吧。<br>要了解有关我的一点信息，可以前往查看“关于”页。<br><img src="https://storage.deepin.org/thread/202210170931412490_%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_20220520085903.png" alt="deepin 15.7 的桌面和控制中心"></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>个人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>高中毕业了</title>
+    <url>/post/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/</url>
+    <content><![CDATA[<p>事情发生得比预料的早了一些。突然通知时，只能匆忙整理好自己的东西离去，甚至还未和老师同学好好说一声告别。几天后，我就将走上高考考场。<br>人生的一个阶段或许即将告一段落。到底是有些不舍。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>个人</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>浅探deepin Live和修复Linux引导</title>
     <url>/post/%E6%B5%85%E6%8E%A2deepin%20Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC/</url>
     <content><![CDATA[<a class="btn" href="https://www.yuque.com/pzm9012/ct5ume/ihc99w"  title="在语雀上阅读本文" target="_blank">在语雀上阅读本文</a>    <a class="btn" href="https://wiki.deepin.org/zh/04_%E6%8C%89%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%E5%88%92%E5%88%86/00_%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E5%89%8D/01_%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC"  title="在 deepin Wiki 上阅读本文" target="_blank">在 deepin Wiki 上阅读本文</a>
@@ -70,33 +97,6 @@
       <tags>
         <tag>经验</tag>
         <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇文章</title>
-    <url>/post/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>这个博客是我花了半天的时间学习搭建的，由 <a href="https://hexo.io/zh-cn/">Hexo</a> 强力驱动，使用主题 Fluid 。感谢提供帮助的 <a href="https://www.possibleving.top/">PossibleVing</a> 和有关教程文档的作者。</p>
-<p>终于有了自己的个人博客……<span id="more"></span></p>
-<p>其实我并不擅长于使用博客，而且由于一些原因，我很可能在明年6月之前都无法写新的文章。但是，我有了一个属于自己、能够自说自话的地方，这就够了。搭建它的过程，也是我深入了解相关知识的过程。</p>
-<p>就从这里开始吧。<br>要了解有关我的一点信息，可以前往查看“关于”页。<br><img src="https://storage.deepin.org/thread/202210170931412490_%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_20220520085903.png" alt="deepin 15.7 的桌面和控制中心"></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>个人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高中毕业了</title>
-    <url>/post/%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A/</url>
-    <content><![CDATA[<p>事情发生得比预料的早了一些。突然通知时，只能匆忙整理好自己的东西离去，甚至还未和老师同学好好说一声告别。几天后，我就将走上高考考场。<br>人生的一个阶段或许即将告一段落。到底是有些不舍。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>个人</tag>
       </tags>
   </entry>
 </search>
